@@ -1,4 +1,4 @@
-#filename : 002_sum.py
+#filename : 002_sum_求和.py
 #author by : erisecsch
 
 #用户输入两个数字之后求和
