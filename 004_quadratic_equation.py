@@ -1,4 +1,4 @@
-#filename : 4_quadratic_equation.py
+#filename : 004_quadratic_equation.py
 #author by : erisecsch
 
 #求解而原方程（ax^2+bx+c=0,a!=0）
