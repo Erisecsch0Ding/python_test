@@ -1,4 +1,4 @@
-#filename : 22_masimum_common_divisor.py
+#filename : 022_masimum_common_divisor.py
 #author by : erisecsch
 
 #最大公约数算法
