@@ -1,4 +1,4 @@
-#filename : 18_multiplication_table.py
+#filename : 018_multiplication_table.py
 #author by : erisecsch
 
 #九九乘法表
