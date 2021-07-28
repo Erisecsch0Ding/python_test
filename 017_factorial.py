@@ -1,4 +1,4 @@
-#filename : factorial.py
+#filename : 017_factorial.py
 #author by erisecsch
 
 #乘阶运算，即n!=1*2*...*n
