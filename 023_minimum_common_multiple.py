@@ -1,4 +1,4 @@
-#filename : 23_minimum_common_multiple.py
+#filename : 023_minimum_common_multiple.py
 #author by : erisecsch
 
 #最小公倍数算法
