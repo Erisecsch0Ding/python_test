@@ -1,4 +1,4 @@
-#filename : 33_joseph_game.py
+#filename : 033_joseph_game_joseph的生死游戏.py
 #author by : erisecsch
 
 #joseph的生死游戏
