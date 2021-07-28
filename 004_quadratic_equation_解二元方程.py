@@ -1,7 +1,7 @@
-#filename : 004_quadratic_equation.py
+#filename : 004_quadratic_equation_解二元方程.py
 #author by : erisecsch
 
-#求解而原方程（ax^2+bx+c=0,a!=0）
+#求解二元方程（ax^2+bx+c=0,a!=0）
 
 import cmath #导入cmath（复杂数学运算）模块
 
