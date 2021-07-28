@@ -1,4 +1,4 @@
-#filename : 41_clear_list.py
+#filename : 041_clear_list.py
 #author by : erisecsch
 
 #清空列表
