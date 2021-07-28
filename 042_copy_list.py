@@ -1,4 +1,4 @@
-#filename : 42_copy_list.py
+#filename : 042_copy_list.py
 #author by : erisecsch
 
 #复制列表
