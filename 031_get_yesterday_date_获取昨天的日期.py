@@ -1,4 +1,4 @@
-#filename : 31_get_yesterday_date.py
+#filename : 031_get_yesterday_date_获取昨天的日期.py
 #author by : erisecsch
 
 #获取昨天的日期
