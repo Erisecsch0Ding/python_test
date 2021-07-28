@@ -1,4 +1,4 @@
-#filename : 26_re_feibonacci.py
+#filename : 026_re_feibonacci.py
 #author by : erisecsch
 
 #递归函数输出斐波那契数列
