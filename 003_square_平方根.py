@@ -1,4 +1,4 @@
-#filename : 003_square_root.py
+#filename : 003_square_root_平方根.py
 #author by : erisecsch
 
 #输入一个数字后，求平方根
