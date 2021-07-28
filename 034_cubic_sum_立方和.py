@@ -1,4 +1,4 @@
-#filename : 34_cubic_sum.py
+#filename : 034_cubic_sum_立方和.py
 #author by : erisecsch
 
 #立方和
